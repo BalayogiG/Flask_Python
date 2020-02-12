@@ -1,6 +1,6 @@
 # Flask_Python
 Python programs for flask package
-<a href="http://flask.pocoo.org/"><img src="http://flask.pocoo.org/static/logo/flask.png"></a>
+<a href="http://flask.pocoo.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png"></a>
 
 <b>Introduction to Flask</b><br/>
   <b>What is flask?</b><br/>
